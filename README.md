@@ -1,16 +1,27 @@
-## Hi there 👋
+# Riano Nakamoto
 
-<!--
-**Riano-Nakamoto/Riano-Nakamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Bitcoin Tool Developer | Privacy Enthusiast | Open Source Builder`
 
-Here are some ideas to get you started:
+Languages:    Python, C++, Rust, Bash
+Blockchain:   Bitcoin Core, Lightning Network
+Tools:        GPG, Docker, Termux, CLI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: 649F 3361 5DE5 0206 ADA2 66D5 AA6E 019A 9BA1 1B1C
+...
+-----END PGP PUBLIC KEY BLOCK-----
+
+X (Twitter):
+https://x.com/Riano_Nakamoto
+GitHub:
+https://github.com/Riano-Nakamoto
+Website:
+https://riano-nakamoto.github.io
+
+"Code should be like cryptography - open, transparent, and empowering."
+
+"Privacy is not a feature, it's a fundamental right."
+
+---
+
+⚠️ Warning: This account prioritizes privacy and anonymity. Always verify by GPG before trust.
